@@ -1,1 +1,1 @@
-# Algorithms_coding_practice
+# Algorithms_Coding_Practice
